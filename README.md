@@ -20,6 +20,5 @@ Software Development
 
 **Connect:**
 
-**GitHub:** You're already here!
 
 **LinkedIn:** [Add your LinkedIn profile]
