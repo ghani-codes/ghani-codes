@@ -4,19 +4,19 @@ I'm a Software Engineering student at COMSATS University, interested in software
 
 **About Me:**
 
-🎓 Studying Software Engineering at COMSATS.
+ 📌 Studying Software Engineering at COMSATS.
 
-💻 Currently learning programming and software development.
+ 📌 Currently learning programming and software development.
 
-🌱 Exploring different technologies and development practices.
+ 📌 Exploring different technologies and development practices.
 
-🔍 Interested in building practical projects and improving my technical skills.
+ 📌 Interested in building practical projects and improving my technical skills.
 
 **Currently Learning:**
 
-Java
-Programming Fundamentals
-Software Development
+ 📌 Java
+ 📌 Programming Fundamentals
+ 📌 Software Development
 
 **Connect:**
 
