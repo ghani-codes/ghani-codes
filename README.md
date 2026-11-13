@@ -1,16 +1,19 @@
-## Hi there 👋
+  Hi, **I'm Muhammad Ghani Iqbal** 👋
 
-<!--
-**ghani-codes/ghani-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at COMSATS University, interested in software development and problem-solving.
 
-Here are some ideas to get you started:
+About Me:
+🎓 Studying Software Engineering at COMSATS.
+💻 Currently learning programming and software development.
+🌱 Exploring different technologies and development practices.
+🔍 Interested in building practical projects and improving my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning:
+Java
+Programming Fundamentals
+Software Development
+Connect:
+
+GitHub: You're already here!
+
+LinkedIn: [Add your LinkedIn profile]
