@@ -23,4 +23,5 @@ I'm a Software Engineering student at COMSATS University, interested in software
 **Connect:**
 
 
-**LinkedIn:** [Add your LinkedIn profile]
+
+**LinkedIn:** https://www.linkedin.com/in/ghani-iqbal-4a2a51440?utm_source=share_via&utm_content=profile&utm_medium=member_android
